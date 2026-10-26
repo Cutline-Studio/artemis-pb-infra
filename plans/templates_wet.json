@@ -1,0 +1,3 @@
+{
+ "shard": "set -euo pipefail; W=$AZ_BATCH_TASK_WORKING_DIR; mkdir -p $W/raw $W/out; python -m stages.s2_acquire --crawl {crawl} --kind wet --local {start} --count {count} --out-dir $W/raw; for f in $W/raw/*; do b=$(basename $f .warc.wet.gz); python -m stages.s3_extract $f $W/x_$b.jsonl.zst && python -m stages.s4_filter $W/x_$b.jsonl.zst $W/f_$b.jsonl.zst --langs {langs} && python -m stages.s6_pii $W/f_$b.jsonl.zst $W/out/$b.jsonl.zst && rm -f $f $W/x_$b.jsonl.zst $W/f_$b.jsonl.zst; done"
+}

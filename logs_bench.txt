@@ -1,0 +1,2 @@
+2026-10-08 17:46:47 EDT bench: downloading https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-39/segments/1788492699475.64/warc/CC-MAIN-20260904131603-20260904161603-00965.warc.gz
+2026-10-08 17:48:18 EDT bench: 0.94 GB WARC; fast path 15.0 MB/s/core, trafilatura path 1.17 MB/s/core, text yield 9.3% of compressed

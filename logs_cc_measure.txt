@@ -1,0 +1,144 @@
+2026-10-08 17:45:39 EDT cc_measure: 128 crawls listed in collinfo.json; measuring ['warc', 'wat', 'wet', 'robotstxt', 'non200responses', 'cc-index']
+  CC-MAIN-2026-39: ~116.7 TB est
+  CC-MAIN-2026-34: ~119.0 TB est
+  CC-MAIN-2026-30: ~119.1 TB est
+  CC-MAIN-2026-25: ~115.2 TB est
+  CC-MAIN-2026-21: ~121.9 TB est
+  CC-MAIN-2026-17: ~117.2 TB est
+  CC-MAIN-2026-12: ~107.3 TB est
+  CC-MAIN-2026-08: ~112.7 TB est
+  CC-MAIN-2026-04: ~121.0 TB est
+2026-10-08 17:45:51 EDT cc_measure: 10/128 crawls done (last CC-MAIN-2025-51 ~114 TB est)
+  CC-MAIN-2025-51: ~114.4 TB est
+  CC-MAIN-2025-47: ~119.7 TB est
+  CC-MAIN-2025-43: ~140.7 TB est
+  CC-MAIN-2025-38: ~126.1 TB est
+  CC-MAIN-2025-33: ~126.5 TB est
+  CC-MAIN-2025-30: ~126.1 TB est
+  CC-MAIN-2025-26: ~118.7 TB est
+  CC-MAIN-2025-21: ~128.6 TB est
+  CC-MAIN-2025-18: ~140.3 TB est
+  CC-MAIN-2025-13: ~137.2 TB est
+2026-10-08 17:46:03 EDT cc_measure: 20/128 crawls done (last CC-MAIN-2025-08 ~124 TB est)
+  CC-MAIN-2025-08: ~123.6 TB est
+  CC-MAIN-2025-05: ~139.2 TB est
+  CC-MAIN-2024-51: ~120.9 TB est
+  CC-MAIN-2024-46: ~123.2 TB est
+  CC-MAIN-2024-42: ~115.2 TB est
+  CC-MAIN-2024-38: ~124.8 TB est
+  CC-MAIN-2024-33: ~103.7 TB est
+  CC-MAIN-2024-30: ~115.0 TB est
+  CC-MAIN-2024-26: ~119.5 TB est
+  CC-MAIN-2024-22: ~118.6 TB est
+2026-10-08 17:46:18 EDT cc_measure: 30/128 crawls done (last CC-MAIN-2024-18 ~123 TB est)
+  CC-MAIN-2024-18: ~123.1 TB est
+  CC-MAIN-2024-10: ~135.9 TB est
+  CC-MAIN-2023-50: ~146.7 TB est
+  CC-MAIN-2023-40: ~148.2 TB est
+  CC-MAIN-2023-23: ~130.2 TB est
+  CC-MAIN-2023-14: ~132.5 TB est
+  CC-MAIN-2023-06: ~133.6 TB est
+  CC-MAIN-2022-49: ~140.4 TB est
+  CC-MAIN-2022-40: ~127.3 TB est
+  CC-MAIN-2022-33: ~105.4 TB est
+2026-10-08 17:46:32 EDT cc_measure: 40/128 crawls done (last CC-MAIN-2022-27 ~128 TB est)
+  CC-MAIN-2022-27: ~128.0 TB est
+  CC-MAIN-2022-21: ~142.7 TB est
+  CC-MAIN-2022-05: ~114.7 TB est
+  CC-MAIN-2021-49: ~104.1 TB est
+  CC-MAIN-2021-43: ~131.7 TB est
+  CC-MAIN-2021-39: ~113.6 TB est
+  CC-MAIN-2021-31: ~120.3 TB est
+  CC-MAIN-2021-25: ~92.6 TB est
+  CC-MAIN-2021-21: ~103.6 TB est
+  CC-MAIN-2021-17: ~111.6 TB est
+2026-10-08 17:46:44 EDT cc_measure: 50/128 crawls done (last CC-MAIN-2021-10 ~100 TB est)
+  CC-MAIN-2021-10: ~100.4 TB est
+  CC-MAIN-2021-04: ~127.0 TB est
+  CC-MAIN-2020-50: ~95.7 TB est
+  CC-MAIN-2020-45: ~102.2 TB est
+  CC-MAIN-2020-40: ~127.6 TB est
+  CC-MAIN-2020-34: ~81.5 TB est
+  CC-MAIN-2020-29: ~108.0 TB est
+  CC-MAIN-2020-24: ~92.7 TB est
+  CC-MAIN-2020-16: ~103.9 TB est
+  CC-MAIN-2020-10: ~85.1 TB est
+2026-10-08 17:46:57 EDT cc_measure: 60/128 crawls done (last CC-MAIN-2020-05 ~105 TB est)
+  CC-MAIN-2020-05: ~104.7 TB est
+  CC-MAIN-2019-51: ~71.6 TB est
+  CC-MAIN-2019-47: ~0.0 TB est
+  CC-MAIN-2019-43: ~0.0 TB est
+  CC-MAIN-2019-39: ~0.0 TB est
+  CC-MAIN-2019-35: ~0.0 TB est
+  CC-MAIN-2019-30: ~0.0 TB est
+  CC-MAIN-2019-26: ~0.0 TB est
+  CC-MAIN-2019-22: ~0.0 TB est
+  CC-MAIN-2019-18: ~0.0 TB est
+2026-10-08 17:46:57 EDT cc_measure: 70/128 crawls done (last CC-MAIN-2019-13 ~0 TB est)
+  CC-MAIN-2019-13: ~0.0 TB est
+  CC-MAIN-2019-09: ~0.0 TB est
+  CC-MAIN-2019-04: ~0.0 TB est
+  CC-MAIN-2018-51: ~0.0 TB est
+  CC-MAIN-2018-47: ~0.0 TB est
+  CC-MAIN-2018-43: ~0.0 TB est
+  CC-MAIN-2018-39: ~0.0 TB est
+  CC-MAIN-2018-34: ~0.0 TB est
+  CC-MAIN-2018-30: ~0.0 TB est
+  CC-MAIN-2018-26: ~0.0 TB est
+2026-10-08 17:46:58 EDT cc_measure: 80/128 crawls done (last CC-MAIN-2018-22 ~0 TB est)
+  CC-MAIN-2018-22: ~0.0 TB est
+  CC-MAIN-2018-17: ~0.0 TB est
+  CC-MAIN-2018-13: ~0.0 TB est
+  CC-MAIN-2018-09: ~0.0 TB est
+  CC-MAIN-2018-05: ~0.0 TB est
+  CC-MAIN-2017-51: ~0.0 TB est
+  CC-MAIN-2017-47: ~0.0 TB est
+  CC-MAIN-2017-43: ~0.0 TB est
+  CC-MAIN-2017-39: ~0.0 TB est
+  CC-MAIN-2017-34: ~0.0 TB est
+2026-10-08 17:46:58 EDT cc_measure: 90/128 crawls done (last CC-MAIN-2017-30 ~0 TB est)
+  CC-MAIN-2017-30: ~0.0 TB est
+  CC-MAIN-2017-26: ~0.0 TB est
+  CC-MAIN-2017-22: ~0.0 TB est
+  CC-MAIN-2017-17: ~0.0 TB est
+  CC-MAIN-2017-13: ~0.0 TB est
+  CC-MAIN-2017-09: ~0.0 TB est
+  CC-MAIN-2017-04: ~0.0 TB est
+  CC-MAIN-2016-50: ~0.0 TB est
+  CC-MAIN-2016-44: ~0.0 TB est
+  CC-MAIN-2016-40: ~0.0 TB est
+2026-10-08 17:46:58 EDT cc_measure: 100/128 crawls done (last CC-MAIN-2016-36 ~0 TB est)
+  CC-MAIN-2016-36: ~0.0 TB est
+  CC-MAIN-2016-30: ~0.0 TB est
+  CC-MAIN-2016-26: ~0.0 TB est
+  CC-MAIN-2016-22: ~0.0 TB est
+  CC-MAIN-2016-18: ~0.0 TB est
+  CC-MAIN-2016-07: ~0.0 TB est
+  CC-MAIN-2015-48: ~0.0 TB est
+  CC-MAIN-2015-40: ~0.0 TB est
+  CC-MAIN-2015-35: ~0.0 TB est
+  CC-MAIN-2015-32: ~0.0 TB est
+2026-10-08 17:46:58 EDT cc_measure: 110/128 crawls done (last CC-MAIN-2015-27 ~0 TB est)
+  CC-MAIN-2015-27: ~0.0 TB est
+  CC-MAIN-2015-22: ~0.0 TB est
+  CC-MAIN-2015-18: ~0.0 TB est
+  CC-MAIN-2015-14: ~0.0 TB est
+  CC-MAIN-2015-11: ~0.0 TB est
+  CC-MAIN-2015-06: ~0.0 TB est
+  CC-MAIN-2014-52: ~0.0 TB est
+  CC-MAIN-2014-49: ~0.0 TB est
+  CC-MAIN-2014-42: ~0.0 TB est
+  CC-MAIN-2014-41: ~0.0 TB est
+2026-10-08 17:46:59 EDT cc_measure: 120/128 crawls done (last CC-MAIN-2014-35 ~0 TB est)
+  CC-MAIN-2014-35: ~0.0 TB est
+  CC-MAIN-2014-23: ~0.0 TB est
+  CC-MAIN-2014-15: ~0.0 TB est
+  CC-MAIN-2014-10: ~0.0 TB est
+  CC-MAIN-2013-48: ~0.0 TB est
+  CC-MAIN-2013-20: ~0.0 TB est
+  CC-MAIN-2012: ~0.0 TB est
+  CC-MAIN-2009-2010: ~0.0 TB est
+2026-10-08 17:46:59 EDT cc_measure: 128/128 crawls done (last CC-MAIN-2008-2009 ~0 TB est)
+  CC-MAIN-2008-2009: ~0.0 TB est
+2026-10-08 17:47:00 EDT cc_news: 123 monthly file lists measured
+2026-10-08 17:47:00 EDT cc_measure: DONE all-of-Common-Crawl est 7.219 PB (+/-0.012 PB 95% CI) -> /workspace/artemis-pb-infra/plans/cc_measurement.json

@@ -1,0 +1,13 @@
+{
+ "plan": "plans/plan_pilot_1crawl_WET.json",
+ "jobs": 1,
+ "tasks": 10003,
+ "files_per_task": 10,
+ "per_job": [
+  {
+   "job_id": "artemis-pilot_1crawl_wet-cc-main-2026-39",
+   "warc_files": 100000,
+   "tasks": 10003
+  }
+ ]
+}

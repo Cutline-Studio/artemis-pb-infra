@@ -1,0 +1,19 @@
+{
+ "measured_utc": "2026-10-08T21:48:18.951645+00:00",
+ "file": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-39/segments/1788492699475.64/warc/CC-MAIN-20260904131603-20260904161603-00965.warc.gz",
+ "compressed_bytes": 935606816,
+ "uncompressed_payload_bytes": 4025664620,
+ "response_records": 21866,
+ "html_records": 21499,
+ "download_seconds": 11.082615852355957,
+ "download_MBps_this_box": 84.42111758309366,
+ "parse_seconds_1core": 8.768589973449707,
+ "resiliparse_extract_seconds_1core": 53.54529118537903,
+ "extracted_text_bytes_resiliparse": 86891727,
+ "text_yield_fraction_of_compressed": 0.09287205427969007,
+ "trafilatura_seconds_1core_extrapolated": 791.2354055705069,
+ "trafilatura_sample_docs": 500,
+ "fast_path_compressed_MBps_per_core": 15.014420520770942,
+ "quality_path_compressed_MBps_per_core": 1.1695026790007983,
+ "note": "single-core, this sandbox; trafilatura time extrapolated from a 500-doc sample"
+}

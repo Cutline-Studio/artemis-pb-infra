@@ -1,0 +1,633 @@
+{
+ "plan": "plans/plan_29PB.json",
+ "jobs": 125,
+ "tasks": 852919,
+ "files_per_task": 10,
+ "per_job": [
+  {
+   "job_id": "artemis-29pb-cc-main-2026-39",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2026-34",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2026-30",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2026-25",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2026-21",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2026-17",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2026-12",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2026-08",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2026-04",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-51",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-47",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-43",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-38",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-33",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-30",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-26",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-21",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-18",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-13",
+   "warc_files": 100000,
+   "tasks": 10003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-08",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2025-05",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-51",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-46",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-42",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-38",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-33",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-30",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-26",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-22",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-18",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2024-10",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2023-50",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2023-40",
+   "warc_files": 90000,
+   "tasks": 9003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2023-23",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2023-14",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2023-06",
+   "warc_files": 88000,
+   "tasks": 8803
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2022-49",
+   "warc_files": 88000,
+   "tasks": 8803
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2022-40",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2022-33",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2022-27",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2022-21",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2022-05",
+   "warc_files": 72000,
+   "tasks": 7203
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2021-49",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2021-43",
+   "warc_files": 72000,
+   "tasks": 7203
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2021-39",
+   "warc_files": 72000,
+   "tasks": 7203
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2021-31",
+   "warc_files": 72000,
+   "tasks": 7203
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2021-25",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2021-21",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2021-17",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2021-10",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2021-04",
+   "warc_files": 79840,
+   "tasks": 7987
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2020-50",
+   "warc_files": 72000,
+   "tasks": 7203
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2020-45",
+   "warc_files": 72000,
+   "tasks": 7203
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2020-40",
+   "warc_files": 79600,
+   "tasks": 7963
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2020-34",
+   "warc_files": 60000,
+   "tasks": 6003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2020-29",
+   "warc_files": 60000,
+   "tasks": 6003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2020-24",
+   "warc_files": 60000,
+   "tasks": 6003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2020-16",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2020-10",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2020-05",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-51",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-47",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-43",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-39",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-35",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-30",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-26",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-22",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-18",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-13",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-09",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2019-04",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-51",
+   "warc_files": 63840,
+   "tasks": 6387
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-47",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-43",
+   "warc_files": 56000,
+   "tasks": 5603
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-39",
+   "warc_files": 56320,
+   "tasks": 5635
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-34",
+   "warc_files": 71520,
+   "tasks": 7155
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-30",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-26",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-22",
+   "warc_files": 64000,
+   "tasks": 6403
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-17",
+   "warc_files": 64320,
+   "tasks": 6435
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-13",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-09",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2018-05",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-51",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-47",
+   "warc_files": 80000,
+   "tasks": 8003
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-43",
+   "warc_files": 89100,
+   "tasks": 8913
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-39",
+   "warc_files": 72000,
+   "tasks": 7203
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-34",
+   "warc_files": 72000,
+   "tasks": 7203
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-30",
+   "warc_files": 72000,
+   "tasks": 7203
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-26",
+   "warc_files": 71839,
+   "tasks": 7187
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-22",
+   "warc_files": 56788,
+   "tasks": 5682
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-17",
+   "warc_files": 64700,
+   "tasks": 6473
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-13",
+   "warc_files": 66500,
+   "tasks": 6653
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-09",
+   "warc_files": 65200,
+   "tasks": 6523
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2017-04",
+   "warc_files": 57800,
+   "tasks": 5783
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2016-50",
+   "warc_files": 51200,
+   "tasks": 5123
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2016-44",
+   "warc_files": 56700,
+   "tasks": 5673
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2016-40",
+   "warc_files": 30374,
+   "tasks": 3041
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2016-36",
+   "warc_files": 29800,
+   "tasks": 2983
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2016-30",
+   "warc_files": 32646,
+   "tasks": 3268
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2016-26",
+   "warc_files": 20200,
+   "tasks": 2023
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2016-22",
+   "warc_files": 24500,
+   "tasks": 2453
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2016-18",
+   "warc_files": 22200,
+   "tasks": 2223
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2016-07",
+   "warc_files": 34900,
+   "tasks": 3493
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-48",
+   "warc_files": 35700,
+   "tasks": 3573
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-40",
+   "warc_files": 25338,
+   "tasks": 2537
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-35",
+   "warc_files": 35300,
+   "tasks": 3533
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-32",
+   "warc_files": 33957,
+   "tasks": 3399
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-27",
+   "warc_files": 31000,
+   "tasks": 3103
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-22",
+   "warc_files": 37188,
+   "tasks": 3722
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-18",
+   "warc_files": 38609,
+   "tasks": 3864
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-14",
+   "warc_files": 29200,
+   "tasks": 2923
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-11",
+   "warc_files": 33002,
+   "tasks": 3304
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2015-06",
+   "warc_files": 25139,
+   "tasks": 2517
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2014-52",
+   "warc_files": 43636,
+   "tasks": 4367
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2014-49",
+   "warc_files": 31916,
+   "tasks": 3195
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2014-42",
+   "warc_files": 59667,
+   "tasks": 5970
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2014-41",
+   "warc_files": 49770,
+   "tasks": 4980
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2014-35",
+   "warc_files": 52849,
+   "tasks": 5288
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2014-23",
+   "warc_files": 63560,
+   "tasks": 6359
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2014-15",
+   "warc_files": 46480,
+   "tasks": 4651
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2014-10",
+   "warc_files": 55700,
+   "tasks": 5573
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2013-48",
+   "warc_files": 51900,
+   "tasks": 5193
+  },
+  {
+   "job_id": "artemis-29pb-cc-main-2013-20",
+   "warc_files": 31600,
+   "tasks": 3163
+  }
+ ]
+}

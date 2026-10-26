@@ -1,0 +1,435 @@
+{
+ "label": "9PB",
+ "generated_et": "2026-10-08T17:53:15.832871-04:00",
+ "target_bytes": {
+  "value": 9000000000000000,
+  "label": "ASSUMPTION",
+  "h": "9.000 PB"
+ },
+ "sources_scope": "public web data and open online datasets only (no private/user-owned data)",
+ "common_crawl_all": {
+  "crawls_measured": {
+   "value": 125,
+   "label": "MEASURED",
+   "note": "crawls with a published warc.paths.gz; collinfo lists 128; the 3 pre-2013 ARC-era crawls (2008-2009, 2009-2010, 2012) publish no WARC path lists (anonymous S3 listing is denied), so only their cc-index files are counted"
+  },
+  "files": {
+   "value": 40808338,
+   "label": "MEASURED",
+   "note": "exact counts from *.paths.gz"
+  },
+  "bytes": {
+   "value": 1.2254105253368616e+16,
+   "label": "ESTIMATE",
+   "h": "12.254 PB",
+   "ci95": "29.3 TB",
+   "method": "per (crawl,kind): file count x mean of HEAD-measured sample sizes"
+  },
+  "bytes_by_kind": {
+   "warc": {
+    "value": 8571097314551170.0,
+    "label": "ESTIMATE",
+    "h": "8.571 PB"
+   },
+   "wat": {
+    "value": 2354728743265097.0,
+    "label": "ESTIMATE",
+    "h": "2.355 PB"
+   },
+   "wet": {
+    "value": 985439072613102.0,
+    "label": "ESTIMATE",
+    "h": "0.985 PB"
+   },
+   "robotstxt": {
+    "value": 18278962994992.4,
+    "label": "ESTIMATE",
+    "h": "18.3 TB"
+   },
+   "non200responses": {
+    "value": 241651861298186.4,
+    "label": "ESTIMATE",
+    "h": "0.242 PB"
+   },
+   "cc-index": {
+    "value": 27181429862983.8,
+    "label": "ESTIMATE",
+    "h": "27.2 TB"
+   },
+   "cc-news-warc": {
+    "value": 55727868783083.25,
+    "label": "ESTIMATE",
+    "h": "55.7 TB"
+   }
+  },
+  "warc_only_bytes": {
+   "value": 8626825183334253.0,
+   "label": "ESTIMATE",
+   "h": "8.627 PB",
+   "note": "WARC = the raw pages; WAT/WET are derived from it (metadata / plain text), so they add bytes but little new content"
+  },
+  "kinds_counted": [
+   "warc",
+   "wat",
+   "wet",
+   "robotstxt",
+   "non200responses",
+   "cc-index"
+  ],
+  "cc_news_included": true,
+  "measurement_errors": [],
+  "measurement_errors_count": 0,
+  "measured_at_utc": "2026-10-08T21:47:28.539071+00:00"
+ },
+ "reaches_target": true,
+ "selection": {
+  "crawls_needed": {
+   "value": 80,
+   "label": "ESTIMATE",
+   "note": "newest first; CC-NEWS (all months) is added first when included"
+  },
+  "crawl_ids": [
+   "CC-NEWS (all months)",
+   "CC-MAIN-2026-39",
+   "CC-MAIN-2026-34",
+   "CC-MAIN-2026-30",
+   "CC-MAIN-2026-25",
+   "CC-MAIN-2026-21",
+   "CC-MAIN-2026-17",
+   "CC-MAIN-2026-12",
+   "CC-MAIN-2026-08",
+   "CC-MAIN-2026-04",
+   "CC-MAIN-2025-51",
+   "CC-MAIN-2025-47",
+   "CC-MAIN-2025-43",
+   "CC-MAIN-2025-38",
+   "CC-MAIN-2025-33",
+   "CC-MAIN-2025-30",
+   "CC-MAIN-2025-26",
+   "CC-MAIN-2025-21",
+   "CC-MAIN-2025-18",
+   "CC-MAIN-2025-13",
+   "CC-MAIN-2025-08",
+   "CC-MAIN-2025-05",
+   "CC-MAIN-2024-51",
+   "CC-MAIN-2024-46",
+   "CC-MAIN-2024-42",
+   "CC-MAIN-2024-38",
+   "CC-MAIN-2024-33",
+   "CC-MAIN-2024-30",
+   "CC-MAIN-2024-26",
+   "CC-MAIN-2024-22",
+   "CC-MAIN-2024-18",
+   "CC-MAIN-2024-10",
+   "CC-MAIN-2023-50",
+   "CC-MAIN-2023-40",
+   "CC-MAIN-2023-23",
+   "CC-MAIN-2023-14",
+   "CC-MAIN-2023-06",
+   "CC-MAIN-2022-49",
+   "CC-MAIN-2022-40",
+   "CC-MAIN-2022-33",
+   "CC-MAIN-2022-27",
+   "CC-MAIN-2022-21",
+   "CC-MAIN-2022-05",
+   "CC-MAIN-2021-49",
+   "CC-MAIN-2021-43",
+   "CC-MAIN-2021-39",
+   "CC-MAIN-2021-31",
+   "CC-MAIN-2021-25",
+   "CC-MAIN-2021-21",
+   "CC-MAIN-2021-17",
+   "CC-MAIN-2021-10",
+   "CC-MAIN-2021-04",
+   "CC-MAIN-2020-50",
+   "CC-MAIN-2020-45",
+   "CC-MAIN-2020-40",
+   "CC-MAIN-2020-34",
+   "CC-MAIN-2020-29",
+   "CC-MAIN-2020-24",
+   "CC-MAIN-2020-16",
+   "CC-MAIN-2020-10",
+   "CC-MAIN-2020-05",
+   "CC-MAIN-2019-51",
+   "CC-MAIN-2019-47",
+   "CC-MAIN-2019-43",
+   "CC-MAIN-2019-39",
+   "CC-MAIN-2019-35",
+   "CC-MAIN-2019-30",
+   "CC-MAIN-2019-26",
+   "CC-MAIN-2019-22",
+   "CC-MAIN-2019-18",
+   "CC-MAIN-2019-13",
+   "CC-MAIN-2019-09",
+   "CC-MAIN-2019-04",
+   "CC-MAIN-2018-51",
+   "CC-MAIN-2018-47",
+   "CC-MAIN-2018-43",
+   "CC-MAIN-2018-39",
+   "CC-MAIN-2018-34",
+   "CC-MAIN-2018-30",
+   "CC-MAIN-2018-26",
+   "CC-MAIN-2018-22"
+  ],
+  "files": {
+   "value": 31371822,
+   "label": "MEASURED"
+  },
+  "bytes": {
+   "value": 9039974498081756.0,
+   "label": "ESTIMATE",
+   "h": "9.040 PB",
+   "ci95": "13.2 TB"
+  },
+  "shortfall_bytes": {
+   "value": 0.0,
+   "label": "ESTIMATE",
+   "h": "0.0 TB"
+  }
+ },
+ "gap_fill_candidates": [],
+ "gap_fill_math": null,
+ "storage": {
+  "limits": {
+   "source": "https://learn.microsoft.com/en-us/azure/storage/common/scalability-targets-standard-account",
+   "account_capacity_bytes_default": 5629499534213120,
+   "accounts_per_region_default": 250,
+   "accounts_per_region_max": 500,
+   "ingress_gbps_per_account_default": 60,
+   "egress_gbps_per_account_default": 200,
+   "requests_per_sec_per_account_default": 40000
+  },
+  "strategy_A_land_raw": {
+   "bytes": {
+    "value": 9000000000000000,
+    "label": "ESTIMATE",
+    "h": "9.000 PB"
+   },
+   "storage_accounts": {
+    "value": 2,
+    "label": "ESTIMATE",
+    "note": "ceil(bytes / (5 PiB x 0.9 fill)); default cap 5 PiB/account, raise via Azure Support"
+   },
+   "accounts_needed_for_ingress": {
+    "value": 1,
+    "label": "ESTIMATE",
+    "note": "to land within 30 days at 60 Gbps/account"
+   },
+   "within_region_account_limit": true,
+   "monthly_storage_cost_usd": {
+    "Hot": {
+     "value": 160596.11057640074,
+     "label": "ESTIMATE",
+     "h": "$160,596"
+    },
+    "Cool": {
+     "value": 127404.92820739746,
+     "label": "ESTIMATE",
+     "h": "$127,405"
+    },
+    "Cold": {
+     "value": 30174.851417541504,
+     "label": "ESTIMATE",
+     "h": "$30,175"
+    },
+    "Archive": {
+     "value": 8298.084139823914,
+     "label": "ESTIMATE",
+     "h": "$8,298"
+    }
+   },
+   "write_ops_cost_usd": {
+    "value": 6973.743438720703,
+    "label": "ESTIMATE",
+    "h": "$6,974",
+    "note": "8 MiB blocks"
+   },
+   "archive_rehydrate_cost_usd": {
+    "value": 167638.06343078613,
+    "label": "ESTIMATE",
+    "h": "$167,638",
+    "note": "one full read-back from Archive (standard priority)"
+   }
+  },
+  "strategy_B_stream_keep_text": {
+   "text_bytes_upper_bound": {
+    "value": 601655123484540.4,
+    "label": "ESTIMATE",
+    "h": "0.602 PB",
+    "note": "WARC bytes x measured text yield 9.287% (one real WARC, before filter/dedup/PII; final will be smaller)"
+   },
+   "storage_accounts": {
+    "value": 1,
+    "label": "ESTIMATE"
+   },
+   "monthly_hot_storage_cost_usd": {
+    "value": 11204.158473913521,
+    "label": "ESTIMATE",
+    "h": "$11,204"
+   },
+   "note": "recommended: stream WARCs from Common Crawl, keep only extracted text + token shards"
+  },
+  "containers": [
+   "raw",
+   "text",
+   "filtered",
+   "dedup",
+   "scrubbed",
+   "tokens",
+   "manifests",
+   "logs"
+  ]
+ },
+ "compute": {
+  "vm": "Standard_D32as_v5",
+  "vcpus_per_vm": 32,
+  "extractor": "quality",
+  "per_core_MBps": {
+   "value": 1.1695026790007983,
+   "label": "MEASURED",
+   "src": "plans/throughput_bench.json (this box, 1 core, 1 real WARC)"
+  },
+  "overhead_factor": {
+   "value": 2.0,
+   "label": "ASSUMPTION",
+   "note": "I/O, retries, spot evictions, filter/dedup/tokenize beyond extraction"
+  },
+  "warc_bytes_to_process": {
+   "value": 6478322549780345.0,
+   "label": "ESTIMATE",
+   "h": "6.478 PB"
+  },
+  "core_hours": {
+   "value": 3077434.6633273903,
+   "label": "ESTIMATE"
+  },
+  "vm_hours": {
+   "value": 96169.83322898095,
+   "label": "ESTIMATE"
+  },
+  "wall_clock_days": {
+   "value": 30,
+   "label": "ASSUMPTION"
+  },
+  "spot_nodes_needed": {
+   "value": 134,
+   "label": "ESTIMATE"
+  },
+  "total_vcpus": {
+   "value": 4288,
+   "label": "ESTIMATE",
+   "note": "needs a Batch/Spot vCPU quota increase - defaults are far lower"
+  },
+  "batch_tasks": {
+   "value": 631119,
+   "label": "ESTIMATE",
+   "note": "10 WARC files per task"
+  },
+  "spot_price_per_hour": {
+   "value": 0.290474,
+   "label": "MEASURED",
+   "src": "Azure Retail Prices API",
+   "meter": {
+    "productName": "Virtual Machines Dasv5 Series",
+    "skuName": "Standard_D32as_v5 Spot",
+    "meterName": "D32as v5 Spot",
+    "meterId": "559bb60d-eeed-56c8-a9e8-2c7667952c9e",
+    "unitOfMeasure": "1 Hour",
+    "tierMinimumUnits": 0.0,
+    "retailPrice": 0.290474,
+    "currencyCode": "USD",
+    "armRegionName": "eastus",
+    "effectiveStartDate": "2026-07-01T00:00:00Z",
+    "type": "Consumption",
+    "armSkuName": "Standard_D32as_v5"
+   }
+  },
+  "ondemand_price_per_hour": {
+   "value": 1.376,
+   "label": "MEASURED",
+   "src": "Azure Retail Prices API"
+  },
+  "compute_cost_spot_usd": {
+   "value": 27934.836137355014,
+   "label": "ESTIMATE",
+   "h": "$27,935"
+  },
+  "compute_cost_ondemand_usd": {
+   "value": 132329.69052307776,
+   "label": "ESTIMATE",
+   "h": "$132,330"
+  },
+  "alt_extractor": {
+   "name": "fast",
+   "per_core_MBps": {
+    "value": 15.014420520770942,
+    "label": "MEASURED"
+   },
+   "spot_nodes_needed": {
+    "value": 11,
+    "label": "ESTIMATE"
+   },
+   "compute_cost_spot_usd": {
+    "value": 2175.8992066919614,
+    "label": "ESTIMATE",
+    "h": "$2,176"
+   }
+  },
+  "nodes_if_network_bound": {
+   "value": 20,
+   "label": "ESTIMATE",
+   "note": "at 1.0 Gbps sustained per node from Common Crawl (ASSUMPTION)"
+  },
+  "acr_premium_cost_usd": {
+   "value": 49.998000000000005,
+   "label": "ESTIMATE",
+   "h": "$50",
+   "note": "30 days x Premium Registry Unit/day"
+  }
+ },
+ "network": {
+  "aggregate_download_gbps_needed": {
+   "value": 19.994822684507238,
+   "label": "ESTIMATE",
+   "note": "WARC bytes over 30 days"
+  },
+  "per_node_mbps": {
+   "value": 149.2150946605018,
+   "label": "ESTIMATE"
+  },
+  "single_stream_download_MBps_this_box": {
+   "value": 84.42111758309366,
+   "label": "MEASURED"
+  },
+  "azure_data_transfer_in_price": {
+   "value": 0.0,
+   "label": "MEASURED",
+   "unit": "USD/GB",
+   "src": "Azure Retail Prices API (Bandwidth)"
+  },
+  "azure_inter_region_price": {
+   "value": 0.02,
+   "label": "MEASURED",
+   "unit": "USD/GB"
+  },
+  "common_crawl_location": "AWS S3 bucket s3://commoncrawl in us-east-1 (N. Virginia), HTTPS mirror https://data.commoncrawl.org/ (source: https://commoncrawl.org/get-started)",
+  "egress_notes": [
+   "Common Crawl is hosted by the AWS Open Data Sponsorship program; HTTPS download is free to the requester (commoncrawl.org/get-started). Azure charges $0 for data transfer IN (price API above).",
+   "Cross-cloud pulls at this scale are throttled: our own measurement run got HTTP 403/503 rate-limit responses at only 4-8 concurrent HEAD requests. Multi-Gbps sustained pulls need coordination with Common Crawl.",
+   "Common Crawl recommends processing IN AWS us-east-1 next to the data. Doing extraction there and shipping only the text (~9.3% of WARC bytes) to Azure cuts transfer ~11x; AWS egress on that text is billed by AWS (AWS price NOT fetched here - check https://aws.amazon.com/ec2/pricing/on-demand/#Data_Transfer).",
+   "Azure East US is also in Virginia, so latency to us-east-1 is low, but it is still internet/cross-cloud traffic."
+  ]
+ },
+ "price_snapshot": {
+  "source": "https://prices.azure.com/api/retail/prices",
+  "fetched_utc": "2026-10-08T21:48:15.113573+00:00",
+  "region": "eastus",
+  "file": "plans/azure_prices_eastus.json"
+ },
+ "blockers": [
+  "Default Azure limits: 5 PiB/storage account, 250 accounts/region, 60 Gbps ingress/account, low default Batch/Spot vCPU quota -> support requests needed before any real run.",
+  "Common Crawl rate limiting (observed 403/503) caps cross-cloud throughput; plan for AWS-side extraction or a CC agreement.",
+  "Spot capacity for thousands of vCPUs in one region is not guaranteed; spread across regions/VM sizes.",
+  "Licensing: Common Crawl ToU allows use, but page copyrights remain with owners - licence/robots/opt-out filtering is required."
+ ]
+}

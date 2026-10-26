@@ -1,0 +1,52 @@
+{
+ "label": "ESTIMATE unless marked",
+ "generated_et": "2026-10-08T18:14:08",
+ "crawl": "CC-MAIN-2026-39",
+ "wet_files_MEASURED": 100000,
+ "wet_bytes_ESTIMATE": 6460843100000.0,
+ "basis_MEASURED": {
+  "run_raw_wet_bytes": 1307929451,
+  "box_cores": 8,
+  "stage_wall_seconds": {
+   "s1": 0.0,
+   "s2": 9.0,
+   "s3": 28.0,
+   "s4": 57.0,
+   "s5": 89.0,
+   "s6": 30.0,
+   "s7": 31.0,
+   "summarize": 0.0
+  },
+  "rate_MBps_per_core_conservative": 0.695707154787234
+ },
+ "overhead_ASSUMPTION": 2.0,
+ "core_hours": 5159.293322023545,
+ "vm_hours": 161.2279163132358,
+ "vm": "Standard_D32as_v5",
+ "nodes": 3,
+ "vcpus_total": 96,
+ "wall_clock_hours": 53.742638771078596,
+ "spot_price_h_MEASURED": 0.290474,
+ "lowpri_price_h_MEASURED": 0.275,
+ "ondemand_price_h_MEASURED": 1.376,
+ "compute_spot_usd": 46.832517763170856,
+ "compute_ondemand_usd": 221.84961284701242,
+ "output": {
+  "scrubbed_text_bytes": 1077678017434.4222,
+  "token_shard_bytes": 4153369146851.399,
+  "docs_upper_bound": 588709397.4243722,
+  "tokens_upper_bound": 712180007472.6929,
+  "note": "scaled from 20 files; crawl-wide dedup will remove more, so these are upper bounds"
+ },
+ "storage_month_usd": {
+  "Hot": 101.33328010993552,
+  "Cool": 74.05124315726057,
+  "Cold": 17.538452326719607,
+  "Archive": 4.823074389847893
+ },
+ "storage_month_text_only_hot_usd": 20.876250008713438,
+ "write_ops_usd": 4.053331204397421,
+ "acr_basic_usd": 0.6664,
+ "download_gbps_avg": 0.2671515474382979,
+ "one_time_total_spot_usd": 51.55224896756828
+}
